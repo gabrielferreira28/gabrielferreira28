@@ -1,16 +1,19 @@
-## Hi there 👋
+# Olá, eu sou Gabriel Ferreira! 👋
 
-<!--
-**gabrielferreira28/gabrielferreira28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim
+- 🎓 Atualmente, sou estudante de **Ciência da Computação**.
+- 👨‍💻 Tenho 18 anos e estou começando minha jornada como desenvolvedor.
+- 💡 Meus interesses incluem **desenvolvimento de software**, especialmente em **Python**, além de **SQL** e **bancos de dados**.
+- 📊 Gosto de explorar como organizar, manipular e consultar dados de maneira eficiente.
 
-Here are some ideas to get you started:
+## Projetos
+Aqui, você encontrará alguns dos meus projetos, onde estou aplicando o que estou aprendendo na faculdade e nos meus estudos pessoais.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+1. **[Nome do Projeto 1]** - Uma breve descrição do que este projeto faz e as tecnologias usadas.
+2. **[Nome do Projeto 2]** - Descrição curta sobre o projeto e sua funcionalidade.
+
+## Contato
+- 📫 Você pode me encontrar no [LinkedIn](link do seu LinkedIn) ou no [Twitter](link do seu Twitter).
+- ✉️ E-mail: seuemail@example.com
+
+Obrigado por visitar meu repositório! 😄
