@@ -27,8 +27,8 @@ Bem-vindo ao meu perfil do GitHub! Sou Gabriel, um jovem desenvolvedor apaixonad
 
 ### 📈 Estatísticas do GitHub
 
-![Gabriel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabrielferreira28&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielferreira28&layout=compact&theme=dracula)
+![Gabriel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabrielferreira28&show_icons=true&theme=blue)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielferreira28&layout=compact&theme=blue)
 
 ### 🌱 Atualmente Estou Aprendendo
 
