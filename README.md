@@ -22,7 +22,7 @@ Bem-vindo ao meu perfil do GitHub! Sou Gabriel, um jovem desenvolvedor apaixonad
 
 ### 📌 Projetos em Destaque
 
-- **[Tipos de Robôs e Suas Aplicações](https://github.com/seu-usuario/Tipos-de-Robos-e-Suas-Aplicacoes)** - Uma plataforma interativa para aprender sobre diferentes tipos de robôs e suas aplicações.
+- **[Tipos de Robôs e Suas Aplicações](https://github.com/gabrielferreira28/MundoRobotico)** - Uma plataforma interativa para aprender sobre diferentes tipos de robôs e suas aplicações.
 
 
 ### 📈 Estatísticas do GitHub
