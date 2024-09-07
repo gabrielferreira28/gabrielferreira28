@@ -2,7 +2,7 @@
 
 ### 💻 Desenvolvedor Web | 🤖 Entusiasta de Robótica | 🎓 Estudante de Ciência da Computação
 
-Bem-vindo ao meu perfil do GitHub! Sou Gabriel, um jovem desenvolvedor apaixonado por tecnologia e inovação. Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas** e explorando o fascinante mundo da **robótica**. Meu objetivo é criar soluções criativas que combinem desenvolvimento web com robótica para impactar positivamente a sociedade.
+Bem-vindo ao meu perfil do GitHub! Sou Gabriel, um jovem desenvolvedor apaixonado por tecnologia e inovação. Atualmente, estou cursando **Ciência da Computação** e explorando o fascinante mundo da **robótica**. Meu objetivo é criar soluções criativas que combinem desenvolvimento web com robótica para impactar positivamente a sociedade.
 
 ### 🚀 Sobre Mim
 
