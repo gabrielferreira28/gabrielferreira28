@@ -1,14 +1,13 @@
 # 👋 Olá, sou Gabriel Ferreira!
 
-### 💻 Desenvolvedor Web | 🤖 Entusiasta de Robótica | 🎓 Estudante de Ciência da Computação
+### 💻 Desenvolvedor Web | 🎓 Estudante de Ciência da Computação
 
-Bem-vindo ao meu perfil do GitHub! Sou Gabriel, um jovem desenvolvedor apaixonado por tecnologia e inovação. Atualmente, estou cursando **Ciência da Computação** e explorando o fascinante mundo da **robótica**. Meu objetivo é criar soluções criativas que combinem desenvolvimento web com robótica para impactar positivamente a sociedade.
+Bem-vindo ao meu perfil do GitHub! Sou Gabriel, um jovem desenvolvedor apaixonado por tecnologia e inovação. Atualmente, estou cursando **Ciência da Computação** e explorando o fascinante mundo do **desenvolvimento web**. Meu objetivo é criar soluções criativas e funcionais que impactem positivamente a sociedade.
 
 ### 🚀 Sobre Mim
 
 - 🌱 Atualmente, estou aprendendo **JavaScript** e aprofundando meu conhecimento em **desenvolvimento front-end**.
 - 💡 Tenho interesse em **projetos interativos** que envolvem **HTML, CSS, JavaScript**, e **SQL**.
-- 🤖 Meu projeto recente, **[Tipos de Robôs e Suas Aplicações](https://mundo-robotico.vercel.app/)**, é uma plataforma educacional para explorar a robótica.
 - 📚 Estou sempre aberto a aprender novas tecnologias e colaborar em projetos interessantes.
 
 ### 🛠️ Tecnologias e Ferramentas
@@ -22,8 +21,7 @@ Bem-vindo ao meu perfil do GitHub! Sou Gabriel, um jovem desenvolvedor apaixonad
 
 ### 📌 Projetos em Destaque
 
-- **[Tipos de Robôs e Suas Aplicações](https://github.com/gabrielferreira28/MundoRobotico)** - Uma plataforma interativa para aprender sobre diferentes tipos de robôs e suas aplicações.
-
+- **[FutureStartups](https://github.com/gabrielferreira28/FutureStartups)** - Uma plataforma que explora startups inovadoras e disruptivas.
 
 ### 📈 Estatísticas do GitHub
 
@@ -37,12 +35,7 @@ Estou focado em aprimorar minhas habilidades em **JavaScript** e **SQL**, além 
 ### 📫 Conecte-se Comigo
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabriel.devwork@gmail.com)
-
-### 🎮 Curiosidades
-
-- 🎓 Estudante na FAM (Faculdade das Américas), focado em **Ciência da Computação**.
-- 🤖 Fascinado por robôs e suas aplicações na automação e na tecnologia de ponta.
-- 🎮 Gosto de explorar novos jogos e entender o desenvolvimento de jogos.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-ferreira-b8716731a/)
 
 ---
 
